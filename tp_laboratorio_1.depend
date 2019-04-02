@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554229102 source:d:\documentos de texto\#proyectos y ejercicios\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554230749 d:\documentos de texto\#proyectos y ejercicios\tp_laboratorio_1\biblioteca.h
+
+1554229428 source:d:\documentos de texto\#proyectos y ejercicios\tp_laboratorio_1\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+
