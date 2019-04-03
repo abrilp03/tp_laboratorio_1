@@ -16,7 +16,6 @@ int main()
     char seguir;
     seguir = 's';
 
-
     do
     {
         opcion = printf("    -----CALCULADORA----- \n1. Ingresar primer operando (A = %0.2f) \n2. Ingresar segundo operando (B = %0.2f)", a , b);
@@ -47,6 +46,11 @@ int main()
                     resulResta = resta(a,b);
 
                     resulDivision = division(a,b);
+
+                    if(resulDivision == 0)
+                    {
+                        printf("El valor de B es cero, la division no se puede hacer.\n");
+                    }
 
                     resulMultiplicacion = multiplicacion(a,b);
 

@@ -40,7 +40,6 @@ float division (float a, float b)
     }
     else
     {
-        printf("---No es posible dividir por cero---\n");
         return 0;
     }
 
