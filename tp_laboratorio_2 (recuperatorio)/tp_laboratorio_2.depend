@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1560548937 source:d:\documentos de texto\#proyectos y ejercicios\tp_laboratorio_2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1561311937 source:d:\documentos de texto\#proyectos y ejercicios\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"otherfunctionsValidations.h"
+
+1557179385 d:\documentos de texto\#proyectos y ejercicios\tp_laboratorio_2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1560193172 d:\documentos de texto\#proyectos y ejercicios\tp_laboratorio_2\arrayemployees.h
+	"otherfunctionsValidations.h"
+
+1557771357 source:d:\documentos de texto\#proyectos y ejercicios\tp_laboratorio_2\otherfunctionsvalidations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"otherfunctionsValidations.h"
+
+1557523617 d:\documentos de texto\#proyectos y ejercicios\tp_laboratorio_2\otherfunctionsvalidations.h
+
